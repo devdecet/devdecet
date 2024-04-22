@@ -1,5 +1,5 @@
 - I am grad student in economics at Northwestern University.
-- I’m interested in development, political and historical economics. 
+- Read more about my research at devdecet.github.io 
 - 📫 ddecet@u.northwestern.edu
 
 <!---
